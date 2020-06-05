@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-mini-todo/static/css/main.8b65ef72.chunk.css",
+    "main.js": "/react-mini-todo/static/js/main.76a48fa4.chunk.js",
+    "main.js.map": "/react-mini-todo/static/js/main.76a48fa4.chunk.js.map",
+    "runtime-main.js": "/react-mini-todo/static/js/runtime-main.51df8c18.js",
+    "runtime-main.js.map": "/react-mini-todo/static/js/runtime-main.51df8c18.js.map",
+    "static/js/2.b2604ae5.chunk.js": "/react-mini-todo/static/js/2.b2604ae5.chunk.js",
+    "static/js/2.b2604ae5.chunk.js.map": "/react-mini-todo/static/js/2.b2604ae5.chunk.js.map",
+    "index.html": "/react-mini-todo/index.html",
+    "precache-manifest.9ab6e036648700ea2680f1ef90d6a51c.js": "/react-mini-todo/precache-manifest.9ab6e036648700ea2680f1ef90d6a51c.js",
+    "service-worker.js": "/react-mini-todo/service-worker.js",
+    "static/css/main.8b65ef72.chunk.css.map": "/react-mini-todo/static/css/main.8b65ef72.chunk.css.map",
+    "static/js/2.b2604ae5.chunk.js.LICENSE.txt": "/react-mini-todo/static/js/2.b2604ae5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51df8c18.js",
+    "static/js/2.b2604ae5.chunk.js",
+    "static/css/main.8b65ef72.chunk.css",
+    "static/js/main.76a48fa4.chunk.js"
+  ]
+}
